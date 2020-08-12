@@ -1,0 +1,23 @@
+.card {
+    margin: 2% 2% !important;
+}
+
+.Gryffindor {
+    border-bottom: 5px solid rgba(255,0,0,0.5);
+}
+
+.Ravenclaw {
+    border-bottom: 5px solid rgba(0,0,255,0.5);
+}
+
+.Slytherin {
+    border-bottom: 5px solid rgba(0,255,0,0.5);
+}
+
+.Hufflepuff {
+    border-bottom: 5px solid rgba(255, 217, 0, 0.8);
+}
+
+.House {
+    border-bottom: 5px solid rgba(0, 0, 0, 0.8);
+}
