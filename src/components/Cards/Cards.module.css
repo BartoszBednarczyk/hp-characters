@@ -3,21 +3,22 @@
 }
 
 .Gryffindor {
-    border-bottom: 5px solid rgba(255,0,0,0.5);
+    border-bottom: 5px solid #bb1300;
 }
 
 .Ravenclaw {
-    border-bottom: 5px solid rgba(0,0,255,0.5);
+    border-bottom: 5px solid #0028aa;
 }
 
 .Slytherin {
-    border-bottom: 5px solid rgba(0,255,0,0.5);
+    border-bottom: 5px solid #00800b;
 }
 
 .Hufflepuff {
-    border-bottom: 5px solid rgba(255, 217, 0, 0.8);
+    border-bottom: 5px solid #E3A000;
 }
 
 .House {
     border-bottom: 5px solid rgba(0, 0, 0, 0.8);
 }
+

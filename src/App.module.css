@@ -38,3 +38,39 @@ body {
 .logo {
     max-width: 40vw;
 }
+
+.checkboxes{
+ width: 50%;
+ display: flex;
+ flex-wrap: wrap;
+ flex-direction: row;
+ justify-content: center;
+ align-items: center;   
+}
+
+.checkboxLabel {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 1%;
+}
+
+.singleCheckbox {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+
+label {
+    font-family: 'Open Sans', sans-serif;
+}
+
+footer {
+    font-family: 'Open Sans', sans-serif;
+    color: #777777;
+}
+
+hr {
+    margin: 1%;
+}
