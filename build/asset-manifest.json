@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.07badea8.chunk.css",
+    "main.js": "/static/js/main.f7f2cf4f.chunk.js",
+    "main.js.map": "/static/js/main.f7f2cf4f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.95dc5144.js",
+    "runtime-main.js.map": "/static/js/runtime-main.95dc5144.js.map",
+    "static/js/2.2a026927.chunk.js": "/static/js/2.2a026927.chunk.js",
+    "static/js/2.2a026927.chunk.js.map": "/static/js/2.2a026927.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.daa72022fac3d94d907eecd97b788f1a.js": "/precache-manifest.daa72022fac3d94d907eecd97b788f1a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.07badea8.chunk.css.map": "/static/css/main.07badea8.chunk.css.map",
+    "static/js/2.2a026927.chunk.js.LICENSE.txt": "/static/js/2.2a026927.chunk.js.LICENSE.txt",
+    "static/media/HARRYP.TTF": "/static/media/HARRYP.181ef9a7.TTF",
+    "static/media/Ministry_Logo_BLACK.svg": "/static/media/Ministry_Logo_BLACK.5dba1eb6.svg",
+    "static/media/deathEater.svg": "/static/media/deathEater.a8f55883.svg",
+    "static/media/dumbledoresArmy.svg": "/static/media/dumbledoresArmy.821f9e29.svg",
+    "static/media/logo.png": "/static/media/logo.4608b574.png",
+    "static/media/orderOfThePhoenix.svg": "/static/media/orderOfThePhoenix.51852a31.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95dc5144.js",
+    "static/js/2.2a026927.chunk.js",
+    "static/css/main.07badea8.chunk.css",
+    "static/js/main.f7f2cf4f.chunk.js"
+  ]
+}
