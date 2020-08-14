@@ -28,7 +28,6 @@ body {
 }
 
 .inputClass {
-    width: 30%;
     border-radius: 5px;
     border: solid 1px grey;
     height: 5vh;
@@ -73,4 +72,16 @@ footer {
 
 hr {
     margin: 1%;
+}
+
+@media (orientation: portrait) {
+    .inputClass {
+        width: 80%;
+    }
+}
+
+@media (orientation: landscape) {
+    .inputClass {
+        width: 30%;
+    }
 }
