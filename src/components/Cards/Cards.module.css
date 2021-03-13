@@ -2,6 +2,10 @@
     margin: 2% 2% !important;
 }
 
+.content {
+    cursor: pointer;
+}
+
 .Gryffindor {
     border-bottom: 5px solid #bb1300;
 }

@@ -25,7 +25,7 @@ function Cards(props, key){
                 
                     <Modal show={show} props={props} onClose={() => changeShow(!show)} />
                
-                <div onClick={()=>changeShow(!show)}>
+                <div className={styles.content} onClick={()=>changeShow(!show)}>
                 <CardContent>
                     <Typography variant="h5">
                         {props.props.name}
